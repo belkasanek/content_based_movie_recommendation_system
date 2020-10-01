@@ -6,3 +6,5 @@ In `simple_rec` notebook simple content based recommendation system is developed
  ![](/recommendations/A%20Fistful%20of%20Dollars.png?raw=true)
  ![](/recommendations/Fargo.png?raw=true)
  ![](/recommendations/Looper.png?raw=true)
+ 
+ Please implement matplotlib graphs like bar graph / histogram, 2d graph, linear graph etc. By implementing this things the project will look amazing.
